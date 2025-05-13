@@ -7,7 +7,8 @@
 
 ###     gamepadcar.cpp (C++)
 ####        Adaptação do projeto de terminal para Gamepad, utilizando o mesmo arduino, porém utilizando apenas SoftwareSerial. 
-<h3 style="color: green"> Participará de uma exibição do Dia T, na UNIFOR, dia 16 de maio de 2025. </h3>
+### 🟢 Participará de uma exibição do Dia T, na UNIFOR, dia 16 de maio de 2025.
+
 
 ###     fotoresistcar (C++)
 ####        Remoção do bluetooth e implementação de dois Fotoresistores na ponta do carrinho, funcionando como um sensor para a cor preta (sendo preto uma fita isolante).
