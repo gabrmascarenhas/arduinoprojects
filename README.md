@@ -1,6 +1,5 @@
 # Projetos de Arduino Uno
 ## Feitos e rodados no Arduino IDE em C++
-
 ## Projetos:
 
 ###   bluetoothterminalcar.cpp (C++)
