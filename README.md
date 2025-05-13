@@ -14,6 +14,7 @@
 ####     Remoção do Bluetooth e implementação de dois fotoresistores na ponta do carrinho, funcionando como sensor para cor preta (fita isolante).
 
 ---
+# Fotos dos projetos: 
 
 ![Foto do Projeto Terminal (bluetoothterminalcar.cpp)](https://i.ibb.co/ZjM6QSc/699f370e-159c-424d-bdff-1391b6808f61.jpg)
 
