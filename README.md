@@ -2,7 +2,7 @@
 ## Feitos e rodados no Arduino IDE em C++
 
 ###   bluetoothterminalcar.cpp (C++)
-####     Carrinho controlado pelo terminal do Bluetooth, utilizando Arduino Uno, PointH, Shield v5.0, Módulo Bluetooth (HC-05) e Aplicativo Dabble em um dispositivo Android.
+####     Carrinho controlado pelo terminal do Bluetooth, utilizando Arduino Uno, Ponte H, Shield v5.0, Módulo Bluetooth (HC-05) e Aplicativo Dabble em um dispositivo Android.
 
 ###   gamepadcar.cpp (C++)
 ####     Adaptação do projeto de terminal para Gamepad, utilizando o mesmo Arduino, porém utilizando apenas SoftwareSerial.
