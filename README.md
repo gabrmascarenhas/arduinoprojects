@@ -13,3 +13,8 @@
 ###     fotoresistcar (C++)
 ####        Remoção do bluetooth e implementação de dois Fotoresistores na ponta do carrinho, funcionando como um sensor para a cor preta (sendo preto uma fita isolante).
 
+
+!(https://ibb.co/tGJM0zY)
+##### (Foto do Projeto Terminal (bluetoothterminalcar.cpp) 
+!(https://ibb.co/BWb1Ynp)
+##### (Foto do Projeto implementado tanto com o gamepad (gamepadcar.cpp) quanto com os dois fotorresistores (fotoresistcar.cpp)
