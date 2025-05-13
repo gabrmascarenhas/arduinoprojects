@@ -7,7 +7,7 @@
 
 ###     gamepadcar.cpp (C++)
 ####        Adaptação do projeto de terminal para Gamepad, utilizando o mesmo arduino, porém utilizando apenas SoftwareSerial. 
-### 🟢 Participará de uma exibição do Dia T, na UNIFOR, dia 16 de maio de 2025.
+##### 🟢 Participará de uma exibição do Dia T, na UNIFOR, dia 16 de maio de 2025.
 
 
 ###     fotoresistcar (C++)
