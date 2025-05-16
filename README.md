@@ -29,4 +29,6 @@
 
 ---
 
-![Foto do Projeto implementado tanto com o sensor ultrassônico e o servo (obstaclecar.cpp)](https://i.ibb.co/Rrf5JjF/eaa4ea39-87b5-49b1-9a96-65573fbb04ed.jpg)
+![Foto do Projeto implementado tanto com o sensor ultrassônico e o servo (obstaclecar.cpp)](https://i.ibb.co/jPLBmvS8/Imagem-do-Whats-App-de-2025-05-16-s-16-54-56-4668308b.jpg)
+
+##### Foto do Projeto implementado com o sensor ultrassônico junto do servo (obstaclecar.cpp).
